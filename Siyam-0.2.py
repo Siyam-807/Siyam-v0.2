@@ -46,7 +46,6 @@ def xox(z):
 def banner():
 	os.system("clear")
 	print("")
-
    _______ _________          _______  _______ 
 (  ____ \\__   __/|\     /|(  ___  )(       )
 | (    \/   ) (   ( \   / )| (   ) || () () |
@@ -224,5 +223,5 @@ def cracker(uid,pwx,tl):
 
 
 if __name__=='__main__':
-	azimvau()
+	Siyam()
 
