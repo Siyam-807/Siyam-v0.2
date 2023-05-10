@@ -5,7 +5,7 @@
 git clone https://github.com/Siyam-807/Siyam-v0.2
 
 cd Siyam-v0.2
-python Tutul-1.py
+python Siyam.py
 
 Note: (This ToOLs Are Paid, So 
 You Need Permission To Use)
